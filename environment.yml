@@ -68,7 +68,7 @@ dependencies:
   - libcxx=14.0.6
   - libdeflate=1.14
   - libffi=3.2.1
-  - libgfortran=5.0.0
+  #- libgfortran=5.0.0
   - libgfortran5=11.3.0
   - liblapack=3.9.0
   - libopenblas=0.3.21
